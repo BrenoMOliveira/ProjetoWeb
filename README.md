@@ -12,3 +12,5 @@ Pesquisa
 ![pesquisa](https://github.com/BrenoMOliveira/ProjetoWeb/assets/125435204/1a8b7369-615b-4b4f-82ee-5aba8286db09)
 
 # Link do projeto 
+https://projeto-web-iota.vercel.app
+Obs: Quando subi para o vercel a página inicial parou de funcionar somente no vercel, não consegui achar o motivo desse erro, porém se pesquisar algum personagem aparece normalmente
